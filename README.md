@@ -3,7 +3,7 @@
 <!--
 **aman1784/aman1784** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Java
 - 🌱 I’m currently learning Java, SpringBoot
@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 - 👀 I'm interested in Backend Programming
 - 👨‍💻 I code in Java and Python
 - 👨‍💻 My FrontEnd work is with -> HTML, CSS
--->
