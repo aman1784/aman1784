@@ -22,6 +22,24 @@
 </p>
 
 ---
+<h3 align="left">My Major Project Highlights:</h3>
+
+#### 1. Backend Coffee API System [Repo](https://github.com/aman1784/backend-coffee)
+##### Tech: Java, Spring Boot, Hibernate, MySQL
+
+- Developed 15+ REST APIs with layered architecture and global error handling.
+- Used Spring Profiles for multi-environment configuration (dev, stage).
+- Implemented environment-based profiles and optimized schema design for efficient queries.
+- Designed relational schema and optimized queries for efficient data retrieval.
+
+#### 2. Order Event Processing System (Kafka Producer-Consumer) [Repo](https://github.com/aman1784/order-event-processing-system/tree/docker-kafka-with-zookeeper)
+##### Tech: Java, Spring Boot, Kafka (local kRaft & Docker-Zookeeper)
+- Implemented a simple event-driven system with 1 producer and 2 consumers to demonstrate real-time asynchronous messaging using Apache Kafka.
+- Built modular monolith structure separating producer and consumer logic to showcase clean modular design and separation of concerns.
+- Produced JSON events to a Kafka topic and successfully consumed them with two independent consumer groups (notification & analytics).
+- Practiced both KRaft mode Kafka setup for local development and a Docker + Zookeeper Kafka setup.
+- Simulated event stream locally and verified end-to-end message flow via API → producer → Kafka topic → consumers, showing practical end-to-end integration.
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aman-seth-926833195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-seth-926833195" height="30" width="40" /></a>
