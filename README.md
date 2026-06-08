@@ -48,7 +48,7 @@ I share practical developer resources and cheat sheets:
 
 | Resource              | Description                                                                           |
 | --------------------- | ------------------------------------------------------------------------------------- |
-| [Daily Docker Commands](https://gist.github.com/aman1784/d266a4ce116942ccb6e952d6a5b9f311) | Quick-reference Docker commands for everyday development and container operations. |
+| [Daily Docker Commands](https://github.com/aman1784/docker-commands) | Quick-reference Docker commands for everyday development and container operations. |
 | [Array2D.java](https://gist.github.com/aman1784/1b0db08ced06243ca29135a33f6393f9) | Quick review over the usage of 2D Array in Java. |
 
 ---
