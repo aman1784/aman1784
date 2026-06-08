@@ -25,7 +25,7 @@
 <h3 align="left">My Major Project Highlights:</h3>
 
 #### 1. Caffeine Engine [Repo](https://github.com/aman1784/backend-coffee)
-##### Tech: Java, Spring Boot, Hibernate, MySQL
+##### Tech: Java, Spring Boot, Hibernate, MySQL, Redis, BloomFilter
 
 - Developed 15+ REST APIs with layered architecture and global error handling.
 - Used Spring Profiles for multi-environment configuration (dev, stage).
