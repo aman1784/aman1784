@@ -39,7 +39,20 @@
 - Produced JSON events to a Kafka topic and successfully consumed them with two independent consumer groups (notification & analytics).
 - Practiced both KRaft mode Kafka setup for local development and a Docker + Zookeeper Kafka setup.
 - Simulated event stream locally and verified end-to-end message flow via API → producer → Kafka topic → consumers, showing practical end-to-end integration.
+
 ---
+
+### Open Source Notes & References
+
+I share practical developer resources and cheat sheets:
+
+| Resource              | Description                                                                           |
+| --------------------- | ------------------------------------------------------------------------------------- |
+| [Daily Docker Commands](https://gist.github.com/aman1784/d266a4ce116942ccb6e952d6a5b9f311) | Quick-reference Docker commands for everyday development and container operations. |
+| [Array2D.java](https://gist.github.com/aman1784/1b0db08ced06243ca29135a33f6393f9) | Quick review over the usage of 2D Array in Java. |
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aman-seth-926833195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-seth-926833195" height="30" width="40" /></a>
